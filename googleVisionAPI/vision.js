@@ -1,6 +1,6 @@
 // https://github.com/yoyoshingu/project1-2024
 
-VISION_API_KEY = "AIzaSyB75x0kzS6ohNT137sTfQYE6h-UQHdHhxA"
+VISION_API_KEY = ""
 
 function processFile(event){
     content = event.target.result 
