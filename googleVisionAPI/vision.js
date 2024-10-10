@@ -1,7 +1,7 @@
 // https://github.com/yoyoshingu/project1-2024
 
-GOOGLEAPI_KEY = ""
-CV_URL = 'https://vision.googleapis.com/v1/images:annotate?key=' + GOOGLEAPI_KEY;
+VISION_API_KEY = "AIzaSyB75x0kzS6ohNT137sTfQYE6h-UQHdHhxA"
+
 function processFile(event){
     content = event.target.result 
     imagestring = content.replace('data:image/jpeg;base64,', '')
