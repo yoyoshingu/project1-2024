@@ -1,6 +1,12 @@
 # project1-2024
 2024-2학기 캡스톤프로젝트 수업
 
+# openweathermap
+
+# openAI
+
+# google cloud vision
+
 개발순서
 1. 소스수정
 2. 소스 저장
